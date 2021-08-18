@@ -1,10 +1,10 @@
 {
   "x86_64": {
     "iso_url": "https://channels.nixos.org/nixos-21.05/latest-nixos-minimal-x86_64-linux.iso",
-    "iso_sha256": "9e66b8f763cf66ca1ce0f0556e52466c91b68a58b503b086348017ace04f2437"
+    "iso_sha256": "dceb77281269213fc277e9db0524ac914e0c2dbcefc014dffaac236f3660ac4c"
   },
   "i686": {
     "iso_url": "https://channels.nixos.org/nixos-21.05/latest-nixos-minimal-i686-linux.iso",
-    "iso_sha256": "4f81287ed0f516e551d9686df6c871760f41c8413d2957f9afbd1c8d4fbfd38e"
+    "iso_sha256": "694e6364b305952d940118a603362274bfbb0df9a6d47d8bda079ded6527ad1f"
   }
 }
